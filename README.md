@@ -184,11 +184,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - ABDUSSAMAD IDRIS ALI
 - KING FAHD UNIVERSITY OF PETROLEUM AND MINERALS
 
-## 📚 References
-
-1. Lim, B., & Zohren, S. (2021). Time-series forecasting with deep learning: a survey. Philosophical Transactions of the Royal Society A, 379(2194), 20200209.
-2. Vaswani, A., et al. (2017). Attention is all you need. Advances in neural information processing systems, 30.
-
 ## 🙏 Acknowledgments
 
 We would like to thank the competition organizers and our technical advisors for their support throughout this project.
