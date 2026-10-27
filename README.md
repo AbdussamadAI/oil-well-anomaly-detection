@@ -4,18 +4,7 @@
 
 This repository contains our solution for the oil well anomaly detection competition, implementing state-of-the-art deep learning approaches including Temporal Fusion Transformers (TFT) and traditional machine learning algorithms.
 
-## For the Committee
-Dear Committee Members,
-
-Please review the [`ML_competition_notebook.ipynb`](ML_competition_notebook.ipynb) file for the complete solution. The notebook is structured to provide:
-
-1. Clear documentation of the approach
-2. Detailed model implementations
-3. Comprehensive performance analysis
-4. Visualizations of results
-
-The notebook represents our best effort to solve the oil well anomaly detection challenge while maintaining code clarity and reproducibility.
-
+The full solution is in [`ML_competition_notebook.ipynb`](ML_competition_notebook.ipynb): approach, model implementations, performance analysis and visualisations.
 
 ## 🎯 Project Overview
 
